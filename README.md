@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Language Exchange Frontend
 
-## Getting Started
+🧩 **Using Next.js + Material UI + Redux Toolkit – recommended stack**
 
-First, run the development server:
+Це фронтенд-застосунок для платформи мовного обміну. Дозволяє користувачам реєструватися, налаштовувати мовний профіль, шукати партнерів для практики мов і обмінюватися запитами.
+
+---
+
+## 📦 Встановлення
+
+1. Клонувати репозиторій:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/PetroFx7/language-exchange_frontend.git
+cd language-exchange_frontend
 ```
+2.Встановити залежності
+```bash
+npm install
+# або
+yarn install
+```
+3.Створити файл .env.local у корені проєкту:
+```bash
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+Режим розробки:
+```bash
+npm run dev
+# або
+yarn dev
+```
+Технології
+Next.js
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Material UI
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Redux Toolkit
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+TypeScript
+Автор
+Petro F.
+GitHub – @PetroFx7
