@@ -39,6 +39,7 @@ Material UI
 Redux Toolkit
 
 TypeScript
+
 Автор
 Petro F.
 GitHub – @PetroFx7
