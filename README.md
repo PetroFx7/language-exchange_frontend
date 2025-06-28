@@ -43,8 +43,6 @@ Next.js
 
 Material UI
 
-Tailwind
-
 Автор
 Petro F.
 GitHub – @PetroFx7
