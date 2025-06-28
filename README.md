@@ -32,13 +32,18 @@ npm run dev
 yarn dev
 ```
 Технології
+
+React
+
 Next.js
 
 Material UI
 
+Tailwind
+
 Redux Toolkit
 
-TypeScript
+JavaScript
 
 Автор
 Petro F.
