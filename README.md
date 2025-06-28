@@ -33,17 +33,17 @@ yarn dev
 ```
 Технології
 
+JavaScript
+
 React
+
+Redux Toolkit
 
 Next.js
 
 Material UI
 
 Tailwind
-
-Redux Toolkit
-
-JavaScript
 
 Автор
 Petro F.
